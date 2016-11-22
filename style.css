@@ -14,3 +14,11 @@ body {
 	width: 100%;
 	
 }
+
+.role-description {
+  border: 1px solid #000;
+  text-align: center;
+  padding: 30px;
+	
+}
+
