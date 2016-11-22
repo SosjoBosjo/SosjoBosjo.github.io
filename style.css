@@ -1,3 +1,9 @@
 p{
   color: red;
 }
+
+.hero {
+	padding: 250px 0;
+	margin: 30px;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  background-image: url("http://il2.picdn.net/shutterstock/videos/16485517/thumb/1.jpg");
